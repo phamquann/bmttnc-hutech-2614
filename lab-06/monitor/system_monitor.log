@@ -1,0 +1,513 @@
+2025-06-09 11:24:37,942 - INFO - System Monitor: Starting system monitoring...
+2025-06-09 11:24:38,947 - INFO - CPU: Usage: 9.0%
+2025-06-09 11:24:38,948 - INFO - Memory: Usage: 27.7%
+2025-06-09 11:24:39,000 - INFO - System Info: Hostname: 10PC479
+2025-06-09 11:24:39,001 - INFO - System Info: Operating System: Windows 10
+2025-06-09 11:24:39,001 - INFO - System Info: Python Version: 3.12.5
+2025-06-09 11:24:39,004 - INFO - Network: Bytes Sent: 276728951, Bytes Received: 1385314152
+2025-06-09 11:24:39,005 - INFO - Software: Running Software:
+2025-06-09 11:24:39,007 - INFO - Software: PID: 0, Name: System Idle Process, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,008 - INFO - Software: PID: 4, Name: System, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,009 - INFO - Software: PID: 100, Name: Registry, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,010 - INFO - Software: PID: 432, Name: smss.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,010 - INFO - Software: PID: 460, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,011 - INFO - Software: PID: 480, Name: RuntimeBroker.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,011 - INFO - Software: PID: 548, Name: csrss.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,012 - INFO - Software: PID: 636, Name: wininit.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,012 - INFO - Software: PID: 708, Name: services.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,013 - INFO - Software: PID: 716, Name: lsass.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,016 - INFO - Software: PID: 852, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,017 - INFO - Software: PID: 868, Name: Code.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,017 - INFO - Software: PID: 880, Name: fontdrvhost.exe, Username: Font Driver Host\UMFD-0
+2025-06-09 11:24:39,018 - INFO - Software: PID: 888, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,018 - INFO - Software: PID: 912, Name: WUDFHost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:24:39,019 - INFO - Software: PID: 980, Name: svchost.exe, Username: NT AUTHORITY\NETWORK SERVICE
+2025-06-09 11:24:39,019 - INFO - Software: PID: 1144, Name: svchost.exe, Username: NT AUTHORITY\NETWORK SERVICE
+2025-06-09 11:24:39,020 - INFO - Software: PID: 1192, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,020 - INFO - Software: PID: 1216, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,021 - INFO - Software: PID: 1292, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,021 - INFO - Software: PID: 1304, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:24:39,022 - INFO - Software: PID: 1356, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,022 - INFO - Software: PID: 1364, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,023 - INFO - Software: PID: 1372, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:24:39,023 - INFO - Software: PID: 1480, Name: IntelCpHDCPSvc.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,025 - INFO - Software: PID: 1512, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:24:39,026 - INFO - Software: PID: 1540, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,027 - INFO - Software: PID: 1556, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,027 - INFO - Software: PID: 1584, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:24:39,028 - INFO - Software: PID: 1608, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:24:39,029 - INFO - Software: PID: 1708, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,029 - INFO - Software: PID: 1724, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,030 - INFO - Software: PID: 1732, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,031 - INFO - Software: PID: 1788, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:24:39,034 - INFO - Software: PID: 1824, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,036 - INFO - Software: PID: 1828, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:24:39,068 - INFO - Software: PID: 1836, Name: svchost.exe, Username: NT AUTHORITY\NETWORK SERVICE
+2025-06-09 11:24:39,074 - INFO - Software: PID: 1940, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,075 - INFO - Software: PID: 1956, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,076 - INFO - Software: PID: 2100, Name: NVDisplay.Container.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,077 - INFO - Software: PID: 2112, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,077 - INFO - Software: PID: 2148, Name: RuntimeBroker.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,078 - INFO - Software: PID: 2160, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:24:39,078 - INFO - Software: PID: 2168, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:24:39,079 - INFO - Software: PID: 2180, Name: PresentationFontCache.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:24:39,080 - INFO - Software: PID: 2268, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,080 - INFO - Software: PID: 2276, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,081 - INFO - Software: PID: 2288, Name: svchost.exe, Username: NT AUTHORITY\NETWORK SERVICE
+2025-06-09 11:24:39,081 - INFO - Software: PID: 2380, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,082 - INFO - Software: PID: 2388, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:24:39,082 - INFO - Software: PID: 2400, Name: MemCompression, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,083 - INFO - Software: PID: 2440, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,084 - INFO - Software: PID: 2504, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:24:39,084 - INFO - Software: PID: 2672, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,086 - INFO - Software: PID: 2716, Name: SgrmBroker.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,087 - INFO - Software: PID: 2768, Name: AutodeskDesktopApp.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,088 - INFO - Software: PID: 2776, Name: svchost.exe, Username: NT AUTHORITY\NETWORK SERVICE
+2025-06-09 11:24:39,090 - INFO - Software: PID: 2828, Name: ApplicationFrameHost.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,091 - INFO - Software: PID: 2840, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:24:39,093 - INFO - Software: PID: 2856, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:24:39,104 - INFO - Software: PID: 2864, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,104 - INFO - Software: PID: 2940, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,105 - INFO - Software: PID: 3084, Name: conhost.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,106 - INFO - Software: PID: 3148, Name: spoolsv.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,106 - INFO - Software: PID: 3164, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,107 - INFO - Software: PID: 3188, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:24:39,108 - INFO - Software: PID: 3224, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,110 - INFO - Software: PID: 3260, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,111 - INFO - Software: PID: 3268, Name: svchost.exe, Username: NT AUTHORITY\NETWORK SERVICE
+2025-06-09 11:24:39,111 - INFO - Software: PID: 3328, Name: UserOOBEBroker.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,112 - INFO - Software: PID: 3368, Name: mDNSResponder.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,114 - INFO - Software: PID: 3376, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,115 - INFO - Software: PID: 3384, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:24:39,115 - INFO - Software: PID: 3400, Name: client32.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,116 - INFO - Software: PID: 3408, Name: FNPLicensingService64.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,117 - INFO - Software: PID: 3420, Name: EwServer.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,118 - INFO - Software: PID: 3428, Name: FNPLicensingService.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,119 - INFO - Software: PID: 3436, Name: svchost.exe, Username: NT AUTHORITY\NETWORK SERVICE
+2025-06-09 11:24:39,119 - INFO - Software: PID: 3460, Name: AdskLicensingService.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:24:39,120 - INFO - Software: PID: 3528, Name: OneApp.IGCC.WinService.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,120 - INFO - Software: PID: 3556, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,121 - INFO - Software: PID: 3588, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,121 - INFO - Software: PID: 3604, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,122 - INFO - Software: PID: 3628, Name: MpDefenderCoreService.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,122 - INFO - Software: PID: 3648, Name: LMS.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,123 - INFO - Software: PID: 3720, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:24:39,123 - INFO - Software: PID: 3768, Name: sqlwriter.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,124 - INFO - Software: PID: 3780, Name: RtkAudUService64.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,125 - INFO - Software: PID: 3800, Name: SWVisualize.BoostService.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,127 - INFO - Software: PID: 3836, Name: SWVisualize.Queue.Server.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,128 - INFO - Software: PID: 3952, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,129 - INFO - Software: PID: 4000, Name: vmware-authd.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,129 - INFO - Software: PID: 4048, Name: vmnetdhcp.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,130 - INFO - Software: PID: 4064, Name: vmware-usbarbitrator64.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,130 - INFO - Software: PID: 4072, Name: vmnat.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,131 - INFO - Software: PID: 4080, Name: Code.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,131 - INFO - Software: PID: 4132, Name: WMIRegistrationService.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,132 - INFO - Software: PID: 4188, Name: MsMpEng.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,132 - INFO - Software: PID: 4220, Name: ReportingServicesService.exe, Username: NT SERVICE\ReportServer$SQLEXPRESS
+2025-06-09 11:24:39,133 - INFO - Software: PID: 4228, Name: sqlservr.exe, Username: NT SERVICE\MSSQL$SQLEXPRESS
+2025-06-09 11:24:39,134 - INFO - Software: PID: 4236, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,134 - INFO - Software: PID: 4268, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:24:39,135 - INFO - Software: PID: 4296, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,135 - INFO - Software: PID: 4324, Name: jhi_service.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,136 - INFO - Software: PID: 4452, Name: svchost.exe, Username: NT AUTHORITY\NETWORK SERVICE
+2025-06-09 11:24:39,136 - INFO - Software: PID: 4536, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,137 - INFO - Software: PID: 4700, Name: powershell.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,137 - INFO - Software: PID: 4716, Name: msedge.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,138 - INFO - Software: PID: 4904, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,138 - INFO - Software: PID: 4984, Name: msedge.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,138 - INFO - Software: PID: 5008, Name: dasHost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:24:39,139 - INFO - Software: PID: 5208, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,139 - INFO - Software: PID: 5248, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,140 - INFO - Software: PID: 5256, Name: RuntimeBroker.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,140 - INFO - Software: PID: 5492, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:24:39,141 - INFO - Software: PID: 5496, Name: RuntimeBroker.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,142 - INFO - Software: PID: 5528, Name: svchost.exe, Username: NT AUTHORITY\NETWORK SERVICE
+2025-06-09 11:24:39,145 - INFO - Software: PID: 5592, Name: svchost.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,145 - INFO - Software: PID: 5648, Name: msedge.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,146 - INFO - Software: PID: 5752, Name: SearchApp.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,147 - INFO - Software: PID: 5796, Name: dllhost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,147 - INFO - Software: PID: 5816, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:24:39,148 - INFO - Software: PID: 5852, Name: conhost.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,148 - INFO - Software: PID: 5896, Name: ctfmon.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,149 - INFO - Software: PID: 5932, Name: RuntimeBroker.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,150 - INFO - Software: PID: 5936, Name: powershell.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,150 - INFO - Software: PID: 5968, Name: msedge.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,151 - INFO - Software: PID: 6036, Name: Code.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,151 - INFO - Software: PID: 6056, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,152 - INFO - Software: PID: 6068, Name: AdobeIPCBroker.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,152 - INFO - Software: PID: 6220, Name: SystemSettings.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,153 - INFO - Software: PID: 6392, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:24:39,153 - INFO - Software: PID: 6468, Name: RtkAudUService64.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,154 - INFO - Software: PID: 6524, Name: CompPkgSrv.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,154 - INFO - Software: PID: 6568, Name: svchost.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,155 - INFO - Software: PID: 6616, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,155 - INFO - Software: PID: 6628, Name: powershell.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,156 - INFO - Software: PID: 6652, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,156 - INFO - Software: PID: 6800, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:24:39,157 - INFO - Software: PID: 6816, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,158 - INFO - Software: PID: 6836, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,159 - INFO - Software: PID: 6908, Name: powershell.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,160 - INFO - Software: PID: 6920, Name: conhost.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,162 - INFO - Software: PID: 7012, Name: python.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,162 - INFO - Software: PID: 7124, Name: taskhostw.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,163 - INFO - Software: PID: 7300, Name: Runplugin64.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,163 - INFO - Software: PID: 7388, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,164 - INFO - Software: PID: 7456, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,164 - INFO - Software: PID: 7472, Name: svchost.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,165 - INFO - Software: PID: 7500, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,166 - INFO - Software: PID: 7512, Name: powershell.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,166 - INFO - Software: PID: 7556, Name: conhost.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,167 - INFO - Software: PID: 7620, Name: Code.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,167 - INFO - Software: PID: 7644, Name: DefenderDaemon.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,168 - INFO - Software: PID: 7672, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:24:39,168 - INFO - Software: PID: 7724, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,169 - INFO - Software: PID: 7732, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:24:39,169 - INFO - Software: PID: 7824, Name: SecurityHealthSystray.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,170 - INFO - Software: PID: 7900, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,170 - INFO - Software: PID: 7916, Name: sihost.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,170 - INFO - Software: PID: 7928, Name: acwebbrowser.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,171 - INFO - Software: PID: 7956, Name: explorer.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,171 - INFO - Software: PID: 7976, Name: SecurityHealthService.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,172 - INFO - Software: PID: 7996, Name: runplugin.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,172 - INFO - Software: PID: 8088, Name: dllhost.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,173 - INFO - Software: PID: 8236, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:24:39,173 - INFO - Software: PID: 8304, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,174 - INFO - Software: PID: 8312, Name: fdlauncher.exe, Username: NT SERVICE\MSSQLFDLauncher$SQLEXPRESS
+2025-06-09 11:24:39,175 - INFO - Software: PID: 8336, Name: msedge.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,176 - INFO - Software: PID: 8340, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,178 - INFO - Software: PID: 8380, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:24:39,178 - INFO - Software: PID: 8468, Name: RuntimeBroker.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,179 - INFO - Software: PID: 8476, Name: conhost.exe, Username: NT SERVICE\MSSQLFDLauncher$SQLEXPRESS
+2025-06-09 11:24:39,179 - INFO - Software: PID: 8624, Name: conhost.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,180 - INFO - Software: PID: 8636, Name: ShellExperienceHost.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,181 - INFO - Software: PID: 8680, Name: RevitAccelerator.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,181 - INFO - Software: PID: 8732, Name: dllhost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,182 - INFO - Software: PID: 8764, Name: vrol.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,182 - INFO - Software: PID: 8876, Name: Code.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,183 - INFO - Software: PID: 8904, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,183 - INFO - Software: PID: 9008, Name: powershell.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,184 - INFO - Software: PID: 9044, Name: SU10Guard.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,184 - INFO - Software: PID: 9060, Name: Code.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,185 - INFO - Software: PID: 9092, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,185 - INFO - Software: PID: 9152, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,186 - INFO - Software: PID: 9168, Name: fdhost.exe, Username: NT SERVICE\MSSQLFDLauncher$SQLEXPRESS
+2025-06-09 11:24:39,186 - INFO - Software: PID: 9388, Name: runplugin.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,187 - INFO - Software: PID: 9396, Name: ScrollWall.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,187 - INFO - Software: PID: 9408, Name: Runplugin64.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,188 - INFO - Software: PID: 9444, Name: svchost.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,188 - INFO - Software: PID: 9528, Name: sldworks_fs.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,189 - INFO - Software: PID: 9536, Name: msedge.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,189 - INFO - Software: PID: 9700, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,190 - INFO - Software: PID: 9800, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,191 - INFO - Software: PID: 9808, Name: SearchIndexer.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,192 - INFO - Software: PID: 9916, Name: taskhostw.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,192 - INFO - Software: PID: 10108, Name: acwebbrowser.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,193 - INFO - Software: PID: 10288, Name: TextInputHost.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,195 - INFO - Software: PID: 10400, Name: NisSrv.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:24:39,196 - INFO - Software: PID: 10488, Name: CCXProcess.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,196 - INFO - Software: PID: 10492, Name: client32.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,197 - INFO - Software: PID: 10652, Name: Microsoft.Photos.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,197 - INFO - Software: PID: 10724, Name: csrss.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,198 - INFO - Software: PID: 10736, Name: acwebbrowser.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,199 - INFO - Software: PID: 10772, Name: winlogon.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,199 - INFO - Software: PID: 10824, Name: conhost.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,200 - INFO - Software: PID: 10828, Name: svchost.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,200 - INFO - Software: PID: 10880, Name: fontdrvhost.exe, Username: Font Driver Host\UMFD-2
+2025-06-09 11:24:39,201 - INFO - Software: PID: 10904, Name: dwm.exe, Username: Window Manager\DWM-2
+2025-06-09 11:24:39,201 - INFO - Software: PID: 10976, Name: Code.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,202 - INFO - Software: PID: 11004, Name: msedge.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,202 - INFO - Software: PID: 11016, Name: node.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,203 - INFO - Software: PID: 11072, Name: powershell.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,203 - INFO - Software: PID: 11088, Name: EVKey.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,204 - INFO - Software: PID: 11100, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,204 - INFO - Software: PID: 11108, Name: conhost.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,205 - INFO - Software: PID: 11112, Name: python.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,205 - INFO - Software: PID: 11172, Name: msedge.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,206 - INFO - Software: PID: 11216, Name: NVDisplay.Container.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,206 - INFO - Software: PID: 11220, Name: StartMenuExperienceHost.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,207 - INFO - Software: PID: 11268, Name: MpCopyAccelerator.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,208 - INFO - Software: PID: 11288, Name: conhost.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,209 - INFO - Software: PID: 11572, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:24:39,211 - INFO - Software: PID: 11612, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,212 - INFO - Software: PID: 11848, Name: msedge.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,213 - INFO - Software: PID: 12168, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,213 - INFO - Software: PID: 12180, Name: powershell.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,214 - INFO - Software: PID: 12248, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,214 - INFO - Software: PID: 12356, Name: cmd.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,215 - INFO - Software: PID: 12436, Name: conhost.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,216 - INFO - Software: PID: 12440, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,216 - INFO - Software: PID: 12572, Name: Code.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,217 - INFO - Software: PID: 12804, Name: Code.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,217 - INFO - Software: PID: 13112, Name: msedge.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,218 - INFO - Software: PID: 13132, Name: conhost.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,218 - INFO - Software: PID: 13188, Name: conhost.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,219 - INFO - Software: PID: 13252, Name: powershell.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,219 - INFO - Software: PID: 13428, Name: Code.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,219 - INFO - Software: PID: 13512, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,220 - INFO - Software: PID: 13772, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:24:39,220 - INFO - Software: PID: 13836, Name: WmiPrvSE.exe, Username: NT AUTHORITY\NETWORK SERVICE
+2025-06-09 11:24:39,221 - INFO - Software: PID: 14024, Name: Code.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,221 - INFO - Software: PID: 14112, Name: conhost.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,222 - INFO - Software: PID: 14116, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,222 - INFO - Software: PID: 14132, Name: powershell.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,223 - INFO - Software: PID: 14652, Name: python.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,223 - INFO - Software: PID: 15212, Name: conhost.exe, Username: 10PC479\Administrator
+2025-06-09 11:24:39,224 - INFO - System Monitor: --------------------------------------------------
+2025-06-09 11:25:40,233 - INFO - CPU: Usage: 11.8%
+2025-06-09 11:25:40,234 - INFO - Memory: Usage: 27.8%
+2025-06-09 11:25:40,235 - INFO - System Info: Hostname: 10PC479
+2025-06-09 11:25:40,236 - INFO - System Info: Operating System: Windows 10
+2025-06-09 11:25:40,237 - INFO - System Info: Python Version: 3.12.5
+2025-06-09 11:25:40,244 - INFO - Network: Bytes Sent: 277031996, Bytes Received: 1386416270
+2025-06-09 11:25:40,245 - INFO - Software: Running Software:
+2025-06-09 11:25:40,247 - INFO - Software: PID: 0, Name: System Idle Process, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,248 - INFO - Software: PID: 4, Name: System, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,248 - INFO - Software: PID: 100, Name: Registry, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,249 - INFO - Software: PID: 432, Name: smss.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,251 - INFO - Software: PID: 460, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,252 - INFO - Software: PID: 480, Name: RuntimeBroker.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,253 - INFO - Software: PID: 548, Name: csrss.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,254 - INFO - Software: PID: 636, Name: wininit.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,254 - INFO - Software: PID: 708, Name: services.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,255 - INFO - Software: PID: 716, Name: lsass.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,255 - INFO - Software: PID: 852, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,256 - INFO - Software: PID: 868, Name: Code.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,256 - INFO - Software: PID: 880, Name: fontdrvhost.exe, Username: Font Driver Host\UMFD-0
+2025-06-09 11:25:40,257 - INFO - Software: PID: 888, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,257 - INFO - Software: PID: 912, Name: WUDFHost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:25:40,258 - INFO - Software: PID: 980, Name: svchost.exe, Username: NT AUTHORITY\NETWORK SERVICE
+2025-06-09 11:25:40,259 - INFO - Software: PID: 1144, Name: svchost.exe, Username: NT AUTHORITY\NETWORK SERVICE
+2025-06-09 11:25:40,260 - INFO - Software: PID: 1192, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,260 - INFO - Software: PID: 1216, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,260 - INFO - Software: PID: 1292, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,261 - INFO - Software: PID: 1304, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:25:40,261 - INFO - Software: PID: 1356, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,262 - INFO - Software: PID: 1364, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,262 - INFO - Software: PID: 1372, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:25:40,263 - INFO - Software: PID: 1480, Name: IntelCpHDCPSvc.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,263 - INFO - Software: PID: 1512, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:25:40,264 - INFO - Software: PID: 1540, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,264 - INFO - Software: PID: 1556, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,265 - INFO - Software: PID: 1584, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:25:40,265 - INFO - Software: PID: 1608, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:25:40,266 - INFO - Software: PID: 1708, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,266 - INFO - Software: PID: 1724, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,267 - INFO - Software: PID: 1732, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,267 - INFO - Software: PID: 1788, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:25:40,268 - INFO - Software: PID: 1824, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,268 - INFO - Software: PID: 1828, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:25:40,268 - INFO - Software: PID: 1836, Name: svchost.exe, Username: NT AUTHORITY\NETWORK SERVICE
+2025-06-09 11:25:40,269 - INFO - Software: PID: 1940, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,269 - INFO - Software: PID: 1956, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,270 - INFO - Software: PID: 2100, Name: NVDisplay.Container.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,270 - INFO - Software: PID: 2112, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,271 - INFO - Software: PID: 2148, Name: RuntimeBroker.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,271 - INFO - Software: PID: 2160, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:25:40,272 - INFO - Software: PID: 2168, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:25:40,272 - INFO - Software: PID: 2180, Name: PresentationFontCache.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:25:40,273 - INFO - Software: PID: 2268, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,273 - INFO - Software: PID: 2276, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,274 - INFO - Software: PID: 2288, Name: svchost.exe, Username: NT AUTHORITY\NETWORK SERVICE
+2025-06-09 11:25:40,275 - INFO - Software: PID: 2380, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,275 - INFO - Software: PID: 2388, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:25:40,276 - INFO - Software: PID: 2400, Name: MemCompression, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,277 - INFO - Software: PID: 2440, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,277 - INFO - Software: PID: 2504, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:25:40,278 - INFO - Software: PID: 2672, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,278 - INFO - Software: PID: 2716, Name: SgrmBroker.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,279 - INFO - Software: PID: 2768, Name: AutodeskDesktopApp.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,280 - INFO - Software: PID: 2776, Name: svchost.exe, Username: NT AUTHORITY\NETWORK SERVICE
+2025-06-09 11:25:40,280 - INFO - Software: PID: 2828, Name: ApplicationFrameHost.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,281 - INFO - Software: PID: 2840, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:25:40,281 - INFO - Software: PID: 2856, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:25:40,282 - INFO - Software: PID: 2864, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,282 - INFO - Software: PID: 2940, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,283 - INFO - Software: PID: 3084, Name: conhost.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,283 - INFO - Software: PID: 3148, Name: spoolsv.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,284 - INFO - Software: PID: 3164, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,285 - INFO - Software: PID: 3188, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:25:40,285 - INFO - Software: PID: 3224, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,286 - INFO - Software: PID: 3260, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,286 - INFO - Software: PID: 3268, Name: svchost.exe, Username: NT AUTHORITY\NETWORK SERVICE
+2025-06-09 11:25:40,287 - INFO - Software: PID: 3328, Name: UserOOBEBroker.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,287 - INFO - Software: PID: 3368, Name: mDNSResponder.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,288 - INFO - Software: PID: 3376, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,289 - INFO - Software: PID: 3384, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:25:40,290 - INFO - Software: PID: 3400, Name: client32.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,290 - INFO - Software: PID: 3408, Name: FNPLicensingService64.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,291 - INFO - Software: PID: 3420, Name: EwServer.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,292 - INFO - Software: PID: 3428, Name: FNPLicensingService.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,293 - INFO - Software: PID: 3436, Name: svchost.exe, Username: NT AUTHORITY\NETWORK SERVICE
+2025-06-09 11:25:40,305 - INFO - Software: PID: 3460, Name: AdskLicensingService.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:25:40,316 - INFO - Software: PID: 3528, Name: OneApp.IGCC.WinService.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,327 - INFO - Software: PID: 3556, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,330 - INFO - Software: PID: 3588, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,331 - INFO - Software: PID: 3604, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,331 - INFO - Software: PID: 3628, Name: MpDefenderCoreService.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,332 - INFO - Software: PID: 3648, Name: LMS.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,332 - INFO - Software: PID: 3720, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:25:40,333 - INFO - Software: PID: 3768, Name: sqlwriter.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,333 - INFO - Software: PID: 3780, Name: RtkAudUService64.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,334 - INFO - Software: PID: 3800, Name: SWVisualize.BoostService.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,335 - INFO - Software: PID: 3836, Name: SWVisualize.Queue.Server.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,336 - INFO - Software: PID: 3952, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,336 - INFO - Software: PID: 4000, Name: vmware-authd.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,337 - INFO - Software: PID: 4048, Name: vmnetdhcp.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,339 - INFO - Software: PID: 4064, Name: vmware-usbarbitrator64.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,339 - INFO - Software: PID: 4072, Name: vmnat.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,340 - INFO - Software: PID: 4080, Name: Code.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,350 - INFO - Software: PID: 4132, Name: WMIRegistrationService.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,350 - INFO - Software: PID: 4188, Name: MsMpEng.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,351 - INFO - Software: PID: 4220, Name: ReportingServicesService.exe, Username: NT SERVICE\ReportServer$SQLEXPRESS
+2025-06-09 11:25:40,351 - INFO - Software: PID: 4228, Name: sqlservr.exe, Username: NT SERVICE\MSSQL$SQLEXPRESS
+2025-06-09 11:25:40,352 - INFO - Software: PID: 4236, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,352 - INFO - Software: PID: 4268, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:25:40,353 - INFO - Software: PID: 4296, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,353 - INFO - Software: PID: 4324, Name: jhi_service.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,354 - INFO - Software: PID: 4452, Name: svchost.exe, Username: NT AUTHORITY\NETWORK SERVICE
+2025-06-09 11:25:40,354 - INFO - Software: PID: 4536, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,355 - INFO - Software: PID: 4700, Name: powershell.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,355 - INFO - Software: PID: 4716, Name: msedge.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,356 - INFO - Software: PID: 4904, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,356 - INFO - Software: PID: 4984, Name: msedge.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,356 - INFO - Software: PID: 5008, Name: dasHost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:25:40,358 - INFO - Software: PID: 5208, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,360 - INFO - Software: PID: 5248, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,361 - INFO - Software: PID: 5256, Name: RuntimeBroker.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,361 - INFO - Software: PID: 5492, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:25:40,362 - INFO - Software: PID: 5496, Name: RuntimeBroker.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,362 - INFO - Software: PID: 5528, Name: svchost.exe, Username: NT AUTHORITY\NETWORK SERVICE
+2025-06-09 11:25:40,363 - INFO - Software: PID: 5592, Name: svchost.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,363 - INFO - Software: PID: 5648, Name: msedge.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,364 - INFO - Software: PID: 5752, Name: SearchApp.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,364 - INFO - Software: PID: 5796, Name: dllhost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,365 - INFO - Software: PID: 5816, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:25:40,365 - INFO - Software: PID: 5852, Name: conhost.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,366 - INFO - Software: PID: 5896, Name: ctfmon.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,366 - INFO - Software: PID: 5936, Name: powershell.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,367 - INFO - Software: PID: 5968, Name: msedge.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,367 - INFO - Software: PID: 6036, Name: Code.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,368 - INFO - Software: PID: 6056, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,368 - INFO - Software: PID: 6068, Name: AdobeIPCBroker.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,369 - INFO - Software: PID: 6220, Name: SystemSettings.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,369 - INFO - Software: PID: 6392, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:25:40,370 - INFO - Software: PID: 6468, Name: RtkAudUService64.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,370 - INFO - Software: PID: 6524, Name: CompPkgSrv.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,371 - INFO - Software: PID: 6568, Name: svchost.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,371 - INFO - Software: PID: 6616, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,372 - INFO - Software: PID: 6628, Name: powershell.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,372 - INFO - Software: PID: 6652, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,373 - INFO - Software: PID: 6800, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:25:40,375 - INFO - Software: PID: 6816, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,377 - INFO - Software: PID: 6836, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,378 - INFO - Software: PID: 6908, Name: powershell.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,379 - INFO - Software: PID: 6920, Name: conhost.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,379 - INFO - Software: PID: 7012, Name: python.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,380 - INFO - Software: PID: 7124, Name: taskhostw.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,380 - INFO - Software: PID: 7300, Name: Runplugin64.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,381 - INFO - Software: PID: 7388, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,381 - INFO - Software: PID: 7456, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,382 - INFO - Software: PID: 7472, Name: svchost.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,383 - INFO - Software: PID: 7500, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,383 - INFO - Software: PID: 7512, Name: powershell.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,383 - INFO - Software: PID: 7556, Name: conhost.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,384 - INFO - Software: PID: 7620, Name: Code.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,384 - INFO - Software: PID: 7644, Name: DefenderDaemon.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,385 - INFO - Software: PID: 7672, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:25:40,385 - INFO - Software: PID: 7724, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,386 - INFO - Software: PID: 7732, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:25:40,386 - INFO - Software: PID: 7824, Name: SecurityHealthSystray.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,387 - INFO - Software: PID: 7900, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,388 - INFO - Software: PID: 7916, Name: sihost.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,388 - INFO - Software: PID: 7928, Name: acwebbrowser.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,389 - INFO - Software: PID: 7956, Name: explorer.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,389 - INFO - Software: PID: 7976, Name: SecurityHealthService.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,390 - INFO - Software: PID: 7996, Name: runplugin.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,390 - INFO - Software: PID: 8088, Name: dllhost.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,390 - INFO - Software: PID: 8236, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:25:40,392 - INFO - Software: PID: 8304, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,392 - INFO - Software: PID: 8312, Name: fdlauncher.exe, Username: NT SERVICE\MSSQLFDLauncher$SQLEXPRESS
+2025-06-09 11:25:40,394 - INFO - Software: PID: 8336, Name: msedge.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,395 - INFO - Software: PID: 8340, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,396 - INFO - Software: PID: 8380, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:25:40,396 - INFO - Software: PID: 8468, Name: RuntimeBroker.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,396 - INFO - Software: PID: 8476, Name: conhost.exe, Username: NT SERVICE\MSSQLFDLauncher$SQLEXPRESS
+2025-06-09 11:25:40,396 - INFO - Software: PID: 8624, Name: conhost.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,396 - INFO - Software: PID: 8636, Name: ShellExperienceHost.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,397 - INFO - Software: PID: 8680, Name: RevitAccelerator.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,398 - INFO - Software: PID: 8732, Name: dllhost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,399 - INFO - Software: PID: 8764, Name: vrol.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,399 - INFO - Software: PID: 8876, Name: Code.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,400 - INFO - Software: PID: 8904, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,400 - INFO - Software: PID: 9008, Name: powershell.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,401 - INFO - Software: PID: 9044, Name: SU10Guard.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,401 - INFO - Software: PID: 9060, Name: Code.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,401 - INFO - Software: PID: 9092, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,402 - INFO - Software: PID: 9152, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,402 - INFO - Software: PID: 9168, Name: fdhost.exe, Username: NT SERVICE\MSSQLFDLauncher$SQLEXPRESS
+2025-06-09 11:25:40,403 - INFO - Software: PID: 9388, Name: runplugin.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,403 - INFO - Software: PID: 9396, Name: ScrollWall.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,404 - INFO - Software: PID: 9408, Name: Runplugin64.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,404 - INFO - Software: PID: 9444, Name: svchost.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,405 - INFO - Software: PID: 9528, Name: sldworks_fs.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,405 - INFO - Software: PID: 9536, Name: msedge.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,406 - INFO - Software: PID: 9700, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,406 - INFO - Software: PID: 9800, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,406 - INFO - Software: PID: 9808, Name: SearchIndexer.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,408 - INFO - Software: PID: 9916, Name: taskhostw.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,410 - INFO - Software: PID: 10108, Name: acwebbrowser.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,411 - INFO - Software: PID: 10288, Name: TextInputHost.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,411 - INFO - Software: PID: 10400, Name: NisSrv.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:25:40,412 - INFO - Software: PID: 10412, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,412 - INFO - Software: PID: 10488, Name: CCXProcess.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,413 - INFO - Software: PID: 10492, Name: client32.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,413 - INFO - Software: PID: 10652, Name: Microsoft.Photos.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,414 - INFO - Software: PID: 10724, Name: csrss.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,414 - INFO - Software: PID: 10736, Name: acwebbrowser.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,415 - INFO - Software: PID: 10772, Name: winlogon.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,415 - INFO - Software: PID: 10824, Name: conhost.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,416 - INFO - Software: PID: 10828, Name: svchost.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,416 - INFO - Software: PID: 10880, Name: fontdrvhost.exe, Username: Font Driver Host\UMFD-2
+2025-06-09 11:25:40,417 - INFO - Software: PID: 10904, Name: dwm.exe, Username: Window Manager\DWM-2
+2025-06-09 11:25:40,417 - INFO - Software: PID: 10956, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,418 - INFO - Software: PID: 10976, Name: Code.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,418 - INFO - Software: PID: 11004, Name: msedge.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,419 - INFO - Software: PID: 11016, Name: node.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,419 - INFO - Software: PID: 11072, Name: powershell.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,420 - INFO - Software: PID: 11088, Name: EVKey.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,420 - INFO - Software: PID: 11100, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,421 - INFO - Software: PID: 11108, Name: conhost.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,421 - INFO - Software: PID: 11112, Name: python.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,422 - INFO - Software: PID: 11172, Name: msedge.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,422 - INFO - Software: PID: 11216, Name: NVDisplay.Container.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,423 - INFO - Software: PID: 11220, Name: StartMenuExperienceHost.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,423 - INFO - Software: PID: 11268, Name: MpCopyAccelerator.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,425 - INFO - Software: PID: 11288, Name: conhost.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,427 - INFO - Software: PID: 11572, Name: svchost.exe, Username: NT AUTHORITY\LOCAL SERVICE
+2025-06-09 11:25:40,428 - INFO - Software: PID: 11612, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,429 - INFO - Software: PID: 11848, Name: msedge.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,429 - INFO - Software: PID: 12168, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,430 - INFO - Software: PID: 12180, Name: powershell.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,430 - INFO - Software: PID: 12248, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,431 - INFO - Software: PID: 12356, Name: cmd.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,431 - INFO - Software: PID: 12436, Name: conhost.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,432 - INFO - Software: PID: 12440, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,432 - INFO - Software: PID: 12572, Name: Code.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,433 - INFO - Software: PID: 12804, Name: Code.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,433 - INFO - Software: PID: 13112, Name: msedge.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,434 - INFO - Software: PID: 13132, Name: conhost.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,434 - INFO - Software: PID: 13188, Name: conhost.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,434 - INFO - Software: PID: 13252, Name: powershell.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,435 - INFO - Software: PID: 13428, Name: Code.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,435 - INFO - Software: PID: 13512, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,436 - INFO - Software: PID: 13772, Name: svchost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,436 - INFO - Software: PID: 13836, Name: WmiPrvSE.exe, Username: NT AUTHORITY\NETWORK SERVICE
+2025-06-09 11:25:40,437 - INFO - Software: PID: 14008, Name: chrome.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,437 - INFO - Software: PID: 14024, Name: Code.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,438 - INFO - Software: PID: 14112, Name: conhost.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,438 - INFO - Software: PID: 14132, Name: powershell.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,439 - INFO - Software: PID: 14652, Name: python.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,439 - INFO - Software: PID: 14984, Name: dllhost.exe, Username: NT AUTHORITY\SYSTEM
+2025-06-09 11:25:40,439 - INFO - Software: PID: 15212, Name: conhost.exe, Username: 10PC479\Administrator
+2025-06-09 11:25:40,440 - INFO - System Monitor: --------------------------------------------------
